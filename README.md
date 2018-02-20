@@ -6,5 +6,5 @@ K. Pawar, Z.Chen, N.J. Shah, and G.F. Egan, Residual Encoder and Convolutional D
 Trained model file can be found here:
 https://drive.google.com/file/d/0B1W6nDeGQLFwR0RvTUdrem0xOTg/view?usp=sharing
 
-A Docker image can be found here, which takes T1, T2, T1CE and T2Flair as input in Nifti format and ouputs the segmented image:
+A Docker image can be found here, which takes T1, T2, T1CE and T2Flair as input in Nifti format and outputs the segmented image:
 https://hub.docker.com/r/kamleshp/brats17/
